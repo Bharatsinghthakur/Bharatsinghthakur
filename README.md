@@ -1,122 +1,155 @@
-<h1 align="center">Hi there, I'm Bharat Singh Thakur 👋</h1>
-<h3 align="center">Data Engineer | Databricks & PySpark Certified | Exploring Agentic AI Systems</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Engineer+%7C+ETL+%2F+ELT+Pipelines;Databricks+%2B+PySpark+Certified;SQL+%7C+Python+%7C+Data+Warehousing;Exploring+RAG+%2B+Agentic+AI" alt="Typing SVG" />
-</p>
+# Bharat Singh Thakur
+### Data Engineer &nbsp;•&nbsp; Databricks & PySpark Certified &nbsp;•&nbsp; Generative AI Enthusiast
+📍 New Delhi, India
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bharatsinghthakur04/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bharatsinghthakur04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Bharatsinghthakur&label=Profile%20Views&color=2E9EF7&style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+scalable+ETL+%2F+ELT+pipelines;Databricks+%2B+PySpark+Certified+Data+Engineer;Working+with+SQL+%7C+Python+%7C+FastAPI;Exploring+RAG+%2C+LLM+Gateways+%26+Agentic+AI" alt="Typing SVG" />
 
----
+<a href="https://www.linkedin.com/in/bharatsinghthakur04/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:bharatsinghthakur04@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Bharatsinghthakur">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-### 🧑‍💻 About Me
+<img src="https://komarev.com/ghpvc/?username=Bharatsinghthakur&label=Profile%20Views&color=2E9EF7&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Bharatsinghthakur?label=Followers&style=flat-square&color=2E9EF7" />
 
-```yaml
-name: Bharat Singh Thakur
-role: Data Engineer
-location: New Delhi, India
-certifications:
-  - Databricks Certified Data Engineer Associate
-  - Databricks Certified Associate Developer for Apache Spark (PySpark)
-focus_areas:
-  - Data Pipelines (ETL / ELT)
-  - SQL & Database Engineering
-  - Distributed Data Processing (PySpark / Databricks)
-  - API Development (FastAPI + SQLAlchemy)
-currently_exploring:
-  - Generative AI & Agentic AI Systems
-  - RAG Evaluation, LLM Gateways & Guardrails
-fun_fact: "I turn messy data — and messy prompts — into something reliable."
-```
+</div>
 
----
+<br>
 
-### 🏅 Certifications
+## 👤 Professional Summary
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Databricks_Certified-Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks_Certified-Associate_Developer_for_Apache_Spark-FF3621?style=for-the-badge&logo=apachespark&logoColor=white" />
-</p>
+Data Engineer with hands-on experience building and maintaining data pipelines, working across SQL and Python-based backends, and holding **two Databricks certifications** in data engineering and Apache Spark (PySpark). Currently expanding into **Generative AI and Agentic AI systems** — RAG evaluation, LLM gateways, and guardrails — to bring AI-driven capabilities into data platforms.
 
----
+<br>
 
-### 🛠️ Data Engineering Toolkit
+## 🏅 Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+<div align="center">
 
-### 🤖 Generative & Agentic AI Stack
+<img src="https://img.shields.io/badge/Databricks_Certified-Data_Engineer_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks_Certified-Apache_Spark_(PySpark)_Associate-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM_Gateways-2E9EF7?style=for-the-badge" />
-</p>
+</div>
 
----
+<br>
 
-### 📌 Featured Project
+## 🧰 Core Competencies
 
-<p align="center">
-  <a href="https://github.com/Bharatsinghthakur/Agentic-Ai-">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bharatsinghthakur&repo=Agentic-Ai-&theme=default&hide_border=false" />
-  </a>
-</p>
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-> **Agentic-Ai-** — notebooks covering RAG evaluation, LLM gateways, and guardrails. Built with Python, LangChain, and `uv`.
+**Languages & Querying**
+<br>
+<img src="https://skillicons.dev/icons?i=python" height="32"/> <img src="https://skillicons.dev/icons?i=mysql" height="32"/>
+<code>Python</code> &nbsp;<code>SQL</code>
 
----
+</td>
+<td valign="top" width="50%">
 
-### 📊 GitHub Stats
+**Big Data & Distributed Processing**
+<br>
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" height="28"/>
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" height="28"/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Bharatsinghthakur&show_icons=true&theme=default&hide_border=false&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatsinghthakur&layout=compact&hide_border=false" />
-</p>
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharatsinghthakur&hide_border=false" />
-</p>
+**Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql" height="32"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" height="28"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharatsinghthakur&theme=react-dark&hide_border=false" />
-</p>
+</td>
+<td valign="top">
 
----
+**Backend & APIs**
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,python" height="32"/>
+<code>SQLAlchemy (async)</code> &nbsp;<code>Pandas</code>
 
-### 📫 Let's Connect
+</td>
+</tr>
+<tr>
+<td valign="top">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/bharatsinghthakur04/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:bharatsinghthakur04@gmail.com"><img src="https://img.shields.io/badge/Say_Hi_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+**Cloud & DevOps**
+<br>
+<img src="https://skillicons.dev/icons?i=azure,aws,docker,git,linux" height="32"/>
 
-<p align="center"><i>⚡ Always learning, always building — one pipeline at a time.</i></p>
+</td>
+<td valign="top">
+
+**Generative & Agentic AI**
+<br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" height="28"/>
+<code>RAG Evaluation</code> &nbsp;<code>LLM Gateways</code> &nbsp;<code>Guardrails</code>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## 💼 Highlights
+
+- 🔹 Certified in **Databricks Data Engineering** and **Apache Spark (PySpark)** — validated skills in distributed data processing and pipeline design
+- 🔹 Built **`Agentic-Ai-`** — a repo of notebooks covering RAG evaluation, LLM gateways, and guardrails using Python, LangChain, and `uv`
+- 🔹 Developed backend services with **FastAPI + SQLAlchemy (async)**, including database session management and email-based workflows
+- 🔹 Comfortable working across **relational databases** (PostgreSQL, MySQL, SQL Server) for both application and analytics use cases
+
+<br>
+
+## 📌 Featured Project
+
+<div align="center">
+
+<a href="https://github.com/Bharatsinghthakur/Agentic-Ai-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bharatsinghthakur&repo=Agentic-Ai-&theme=default&hide_border=false" />
+</a>
+
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Bharatsinghthakur&show_icons=true&theme=default&hide_border=false&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bharatsinghthakur&layout=compact&hide_border=false" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bharatsinghthakur&hide_border=false" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bharatsinghthakur&theme=react-dark&hide_border=false" width="90%" />
+
+</div>
+
+<br>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+Open to **Data Engineering** roles and collaboration on **AI-driven data platforms**.
+
+<a href="https://www.linkedin.com/in/bharatsinghthakur04/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:bharatsinghthakur04@gmail.com"><img src="https://img.shields.io/badge/Say_Hi_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br><br>
+<i>⚡ Always learning, always building — one pipeline at a time.</i>
+
+</div>
