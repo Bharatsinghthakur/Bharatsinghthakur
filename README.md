@@ -1,40 +1,69 @@
-<h1 align="center">Hi 👋, I'm Bharat Singh Thakur</h1>
-<h3 align="center">Data Engineer | Exploring Generative AI & Agentic AI Systems</h3>
+<h1 align="center">Hi there, I'm Bharat Singh Thakur 👋</h1>
+<h3 align="center">Data Engineer | Building Reliable Pipelines & Exploring Agentic AI Systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+scalable+data+pipelines;Exploring+RAG+%2B+LLM+Gateways;Learning+Agentic+AI+Systems;Python+%7C+SQL+%7C+LangChain" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Data+Engineer+%7C+ETL+%2F+ELT+Pipelines;SQL+%7C+Python+%7C+Data+Warehousing;Exploring+RAG+%2B+LLM+Gateways;Building+Agentic+AI+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Bharatsinghthakur&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
-  <a href="https://github.com/Bharatsinghthakur?tab=followers"><img src="https://img.shields.io/github/followers/Bharatsinghthakur?label=Followers&style=flat&color=2E9EF7" /></a>
+  <a href="https://www.linkedin.com/in/bharatsinghthakur04/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:bharatsinghthakur04@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Bharatsinghthakur&label=Profile%20Views&color=2E9EF7&style=for-the-badge" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧑‍💻 About Me
 
-- 🔭 Currently working as a **Data Engineer**, based in New Delhi, India
-- 🌱 Building skills in **Generative AI** and **Agentic AI systems**
-- 🧠 Exploring **RAG evaluation**, **LLM gateways**, and **guardrails**
-- 🛠️ Recently worked with **FastAPI + SQLAlchemy (async)**, and standing up local **SQL Server** dev environments
-- 💬 Ask me about data pipelines, SQL, or LLM-based agent workflows
-- ⚡ Fun fact: I like turning messy data (and messy prompts) into something reliable
+\`\`\`yaml
+name: Bharat Singh Thakur
+role: Data Engineer
+location: New Delhi, India
+currently_learning: Generative AI & Agentic AI Systems
+focus_areas:
+  - Data Pipelines (ETL / ELT)
+  - SQL & Database Engineering
+  - RAG Evaluation, LLM Gateways & Guardrails
+  - API Development (FastAPI + SQLAlchemy)
+fun_fact: "I turn messy data — and messy prompts — into something reliable."
+\`\`\`
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Data Engineering Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,mssql,docker,git,github,vscode,linux,azure,aws&perline=6" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+### 🤖 Generative & Agentic AI Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM_Gateways-2E9EF7?style=for-the-badge" />
 </p>
 
 ---
@@ -47,7 +76,7 @@
   </a>
 </p>
 
-> **Agentic-Ai-** — a collection of notebooks covering RAG evaluation, LLM gateways, and guardrails, built with Python, LangChain, and `uv`.
+> **Agentic-Ai-** — notebooks covering RAG evaluation, LLM gateways, and guardrails. Built with Python, LangChain, and \`uv\`.
 
 ---
 
@@ -68,14 +97,11 @@
 
 ---
 
-### 🤝 Connect with Me
+### 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE-HANDLE"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.linkedin.com/in/bharatsinghthakur04/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bharatsinghthakur04@gmail.com"><img src="https://img.shields.io/badge/Say_Hi_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center"><i>⚡ Always learning, always building.</i></p>
+<p align="center"><i>⚡ Always learning, always building — one pipeline at a time.</i></p>
